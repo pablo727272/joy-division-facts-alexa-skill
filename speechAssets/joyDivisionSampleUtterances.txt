@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a Joy Division fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a Joy Division fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a Joy Division fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a Joy Division trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a Joy Division trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some Joy Division information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
