@@ -1,6 +1,7 @@
 /* eslint-disable  func-names */
 /* eslint quote-props: ["error", "consistent"]*/
 /**
+ * Joy Division Facts - compiled by Paul Humphrey from wikipedia.org - v 1.0.171026
  * This sample demonstrates a simple skill built with the Amazon Alexa Skills
  * nodejs skill development kit.
  * This sample supports multiple lauguages. (en-US, en-GB).
